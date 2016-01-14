@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "8863cd299fa2fa523047b2c86d0f086c8349eb3e",
-  "LastTranslatedCommit": "5dbde9bc408c8704dedd1f67cbf76ad1f2dcafb8",
+  "LastTranslatedCommit": "657364ba6104aba7836e1bd89e07c9c51c3dc06e",
   "Items": {
     "b85f28c40671680cc9f791d8cf8e3a1befd7a8b2": {
       "FileHash": "b85f28c40671680cc9f791d8cf8e3a1befd7a8b2",
@@ -1984,6 +1984,27 @@
       "DependencyFrom": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md"
+      ],
+      "HandoffFilePath": null,
+      "HandoffFileCommit": null,
+      "HandoffDateTime": "0001-01-01T00:00:00",
+      "HandoffException": null,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "213949fc535cf4108a4339a9295d7360181ab6e0": {
+      "FileHash": "213949fc535cf4108a4339a9295d7360181ab6e0",
+      "SourceFileCommit": "7f2fdfa70c2629ad36d0b2facf592bd4b8e0ffff",
+      "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md",
+      "HandoffReason": 0,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
